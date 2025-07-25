@@ -1,1 +1,1 @@
-# sigma-development-course
+# web-development-course
